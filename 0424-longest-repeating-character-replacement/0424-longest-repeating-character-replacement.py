@@ -1,6 +1,6 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count = [0] * 26  # For A-Z
+        count = [0] * 26
         max_count = 0
         l= 0
         res= 0
