@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/krishnaswapnika/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
