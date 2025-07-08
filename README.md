@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/krishnaswapnika/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/krishnaswapnika/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/krishnaswapnika/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnaswapnika/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0940-fruit-into-baskets](https://github.com/krishnaswapnika/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/krishnaswapnika/LeetCode/tree/master/0400-nth-digit) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishnaswapnika/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/krishnaswapnika/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
@@ -102,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/krishnaswapnika/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Linked List
 |  |
 | ------- |
