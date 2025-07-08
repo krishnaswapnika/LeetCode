@@ -2,8 +2,11 @@ class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         dic = {}
         for i in range(len(nums)):
-            dic[nums[i]]=dic.get(nums[i],0)+1
-        for k,v in dic.items():
-            if dic[k]>=2:
+            if nums[i] in dic:
+                dic[nums[i]] += 1
+            else:
+                dic[nums[i]]  = 1
+        for i in range(len(dic)):
+            if dic[nums[i]] >= 2:
                 return True
         return False
