@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/krishnaswapnika/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krishnaswapnika/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
