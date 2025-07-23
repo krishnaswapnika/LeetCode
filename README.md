@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/krishnaswapnika/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/krishnaswapnika/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krishnaswapnika/LeetCode/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
