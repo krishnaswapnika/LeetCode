@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnaswapnika/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/krishnaswapnika/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/krishnaswapnika/LeetCode/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
 ## Rolling Hash
 |  |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krishnaswapnika/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
