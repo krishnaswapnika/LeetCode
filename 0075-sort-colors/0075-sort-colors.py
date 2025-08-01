@@ -5,8 +5,8 @@ class Solution:
         """
         m=0
         l=0
-        h = len(nums)-1
-        while  m<=h:
+        r = len(nums)-1
+        while  m<=r:
             if nums[m] ==0:
                 nums[l], nums[m] = nums[m], nums[l]
                 l+=1
@@ -14,8 +14,8 @@ class Solution:
             elif nums[m]==1:
                 m+=1
             else:
-                nums[m], nums[h] = nums[h],nums[m]
-                h-=1
+                nums[m], nums[r] = nums[r],nums[m]
+                r-=1
         return nums
 
 
