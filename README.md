@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krishnaswapnika/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/krishnaswapnika/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/krishnaswapnika/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/krishnaswapnika/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/krishnaswapnika/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 ## Stack
