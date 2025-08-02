@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0400-nth-digit](https://github.com/krishnaswapnika/LeetCode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/krishnaswapnika/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Quickselect
 |  |
