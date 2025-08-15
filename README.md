@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
+| [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/krishnaswapnika/LeetCode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/krishnaswapnika/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/krishnaswapnika/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
 | ------- |
