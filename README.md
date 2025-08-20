@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/krishnaswapnika/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/krishnaswapnika/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/krishnaswapnika/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3396-valid-word](https://github.com/krishnaswapnika/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/krishnaswapnika/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/krishnaswapnika/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0583-delete-operation-for-two-strings](https://github.com/krishnaswapnika/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1250-longest-common-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
