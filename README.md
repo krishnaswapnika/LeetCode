@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/krishnaswapnika/LeetCode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/krishnaswapnika/LeetCode/tree/master/1448-maximum-69-number) |
