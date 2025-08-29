@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishnaswapnika/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/krishnaswapnika/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/krishnaswapnika/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Number Theory
 |  |
 | ------- |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/krishnaswapnika/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/krishnaswapnika/LeetCode/tree/master/0322-coin-change) |
 | [1036-rotting-oranges](https://github.com/krishnaswapnika/LeetCode/tree/master/1036-rotting-oranges) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
