@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/krishnaswapnika/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/krishnaswapnika/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/krishnaswapnika/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaswapnika/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/krishnaswapnika/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/krishnaswapnika/LeetCode/tree/master/0075-sort-colors) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/krishnaswapnika/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/0371-sum-of-two-integers) |
