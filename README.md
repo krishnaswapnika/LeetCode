@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnaswapnika/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/krishnaswapnika/LeetCode/tree/master/0217-contains-duplicate) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/krishnaswapnika/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/krishnaswapnika/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/krishnaswapnika/LeetCode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/krishnaswapnika/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnaswapnika/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/krishnaswapnika/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krishnaswapnika/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
