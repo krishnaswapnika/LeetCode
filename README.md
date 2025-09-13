@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Database
 |  |
 | ------- |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/krishnaswapnika/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/krishnaswapnika/LeetCode/tree/master/0155-min-stack) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
