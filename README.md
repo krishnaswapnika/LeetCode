@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/krishnaswapnika/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/krishnaswapnika/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/krishnaswapnika/LeetCode/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishnaswapnika/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
+| [1127-last-stone-weight](https://github.com/krishnaswapnika/LeetCode/tree/master/1127-last-stone-weight) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Merge Sort
 |  |
