@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/krishnaswapnika/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/krishnaswapnika/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/krishnaswapnika/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/krishnaswapnika/LeetCode/tree/master/0342-power-of-four) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/krishnaswapnika/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/krishnaswapnika/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishnaswapnika/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 ## Stack
