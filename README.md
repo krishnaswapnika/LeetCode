@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3778-transform-array-by-parity](https://github.com/krishnaswapnika/LeetCode/tree/master/3778-transform-array-by-parity) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3778-transform-array-by-parity](https://github.com/krishnaswapnika/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/krishnaswapnika/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [3778-transform-array-by-parity](https://github.com/krishnaswapnika/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
