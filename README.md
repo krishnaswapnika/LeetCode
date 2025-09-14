@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/krishnaswapnika/LeetCode/tree/master/1448-maximum-69-number) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnaswapnika/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/krishnaswapnika/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3779-eat-pizzas](https://github.com/krishnaswapnika/LeetCode/tree/master/3779-eat-pizzas) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/krishnaswapnika/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnaswapnika/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/krishnaswapnika/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3396-valid-word](https://github.com/krishnaswapnika/LeetCode/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/krishnaswapnika/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/krishnaswapnika/LeetCode/tree/master/0155-min-stack) |
 | [0886-score-of-parentheses](https://github.com/krishnaswapnika/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/krishnaswapnika/LeetCode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
