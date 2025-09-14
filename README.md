@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/krishnaswapnika/LeetCode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/krishnaswapnika/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishnaswapnika/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/krishnaswapnika/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/krishnaswapnika/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/krishnaswapnika/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/krishnaswapnika/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/krishnaswapnika/LeetCode/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/krishnaswapnika/LeetCode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/krishnaswapnika/LeetCode/tree/master/1448-maximum-69-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/krishnaswapnika/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/krishnaswapnika/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/krishnaswapnika/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krishnaswapnika/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/krishnaswapnika/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/krishnaswapnika/LeetCode/tree/master/0322-coin-change) |
