@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/krishnaswapnika/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3778-transform-array-by-parity](https://github.com/krishnaswapnika/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3779-eat-pizzas](https://github.com/krishnaswapnika/LeetCode/tree/master/3779-eat-pizzas) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/krishnaswapnika/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/krishnaswapnika/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/krishnaswapnika/LeetCode/tree/master/1448-maximum-69-number) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [3779-eat-pizzas](https://github.com/krishnaswapnika/LeetCode/tree/master/3779-eat-pizzas) |
 ## Sorting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/krishnaswapnika/LeetCode/tree/master/0948-sort-an-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/krishnaswapnika/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3778-transform-array-by-parity](https://github.com/krishnaswapnika/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3779-eat-pizzas](https://github.com/krishnaswapnika/LeetCode/tree/master/3779-eat-pizzas) |
 ## Counting Sort
 |  |
 | ------- |
