@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1731-even-odd-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/1731-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1731-even-odd-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/1731-even-odd-tree) |
 ## Database
 |  |
 | ------- |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/krishnaswapnika/LeetCode/tree/master/0322-coin-change) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/krishnaswapnika/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/krishnaswapnika/LeetCode/tree/master/1036-rotting-oranges) |
+| [1731-even-odd-tree](https://github.com/krishnaswapnika/LeetCode/tree/master/1731-even-odd-tree) |
 ## Segment Tree
 |  |
 | ------- |
