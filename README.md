@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/krishnaswapnika/LeetCode/tree/master/0400-nth-digit) |
 | [1370-count-number-of-nice-subarrays](https://github.com/krishnaswapnika/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/krishnaswapnika/LeetCode/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/krishnaswapnika/LeetCode/tree/master/1642-water-bottles) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/krishnaswapnika/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/krishnaswapnika/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/krishnaswapnika/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -482,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/krishnaswapnika/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/krishnaswapnika/LeetCode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
