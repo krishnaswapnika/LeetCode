@@ -3,20 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        n = len(nums)
-        x = n - 2
-        while x>=0:
-            if nums[x] < nums[x+1]:
+        n=len(nums)
+        d=-1
+        for i in range(n-2,-1,-1):
+            if nums[i]<nums[i+1]:
+                d = i
                 break
-            x -= 1
-        if x<0:
-            nums.reverse()
-        else:
-            l = n-1
-            while l>x:
-                if nums[x] < nums[l]:
-                    break
-                l-=1
-            nums[x],nums[l] = nums[l], nums[x]
-            nums[x+1:] = nums[x+1:][::-1]
-        return nums
+        if d == -1:
+            nums.reverse() 
+            return nums
+        for i in range(n-1,d,-1):
+            if nums[i] >nums[d]:
+                nums[i], nums[d] = nums[d], nums[i]
+                break
+        nums[d+1:]=reversed(nums[d+1:])
