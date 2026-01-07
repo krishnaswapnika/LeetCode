@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/krishnaswapnika/LeetCode/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/krishnaswapnika/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/krishnaswapnika/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [1757-recyclable-and-low-fat-products](https://github.com/krishnaswapnika/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
