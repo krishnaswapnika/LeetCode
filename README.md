@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/krishnaswapnika/LeetCode/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/krishnaswapnika/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/krishnaswapnika/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/krishnaswapnika/LeetCode/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/krishnaswapnika/LeetCode/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/krishnaswapnika/LeetCode/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishnaswapnika/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
