@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/krishnaswapnika/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/krishnaswapnika/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/krishnaswapnika/LeetCode/tree/master/1280-students-and-examinations) |
+| [1729-find-followers-count](https://github.com/krishnaswapnika/LeetCode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/krishnaswapnika/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/krishnaswapnika/LeetCode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/krishnaswapnika/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
